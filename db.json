@@ -1,16 +1,6 @@
 {
   "quotes": [
     {
-      "id": 1,
-      "quote": "Expect nothing. Live frugally on surprise.",
-      "author": "Alice Walker"
-    },
-    {
-      "id": 2,
-      "quote": "Y’all is the best, most inclusive, second-person, plural pronoun in the English-speaking world.",
-      "author": "Hannah Gadsby"
-    },
-    {
       "id": 3,
       "quote": "today a man on the street pointed to me & said ‘what the hell is that!?’ i wanted to turn around, tell him that i got this dress on sale & i got this body for free but you have been making me pay for both ever since.",
       "author": "Alok Vaid Menon"
@@ -41,11 +31,6 @@
       "author": "Muhammad Ali"
     },
     {
-      "id": 9,
-      "quote": "Not everything that is faced can be changed, but nothing can be changed until it is faced.",
-      "author": "James Baldwin"
-    },
-    {
       "id": 10,
       "quote": "You know, failure hurts. Any kind of failure stings. If you live in the sting, you will undoubtedly fail. My way of getting past the sting is to say no, I’m just not going to let this get me down.",
       "author": "Sonia Sotomayor"
@@ -54,18 +39,33 @@
       "id": 11,
       "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
       "author": "Ann Richards"
+    },
+    {
+      "quote": "Either you run the day or the day runs you ",
+      "author": "Jim Rohn",
+      "id": 12
     }
   ],
   "likes": [
     {
-      "id": 1,
-      "quoteId": 1,
-      "createdAt": 1558524356
-    },
-    {
       "quoteId": 10,
       "id": 2,
       "createdAt": 1558524358
+    },
+    {
+      "quoteId": 3,
+      "createdAt": 1716391979,
+      "id": 3
+    },
+    {
+      "quoteId": 11,
+      "createdAt": 1716391982,
+      "id": 4
+    },
+    {
+      "quoteId": 11,
+      "createdAt": 1716391982,
+      "id": 5
     }
   ]
 }
